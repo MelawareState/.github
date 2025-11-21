@@ -7,7 +7,7 @@
 
 ---
 
-## 🐞 Welcome to Melaware — The State of Despair
+## Welcome to Melaware — The State of Despair
 
 This is the official–unofficial home of **Melaware**, a fake digital jurisdiction where:
 
